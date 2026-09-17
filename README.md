@@ -89,7 +89,7 @@ py main.py
 # Demo Video
 ## Demo
 
-<video src="./Demo_video.mp4" type="video/mp4" controls width="800"></video>
+[![Watch the video](https://img.youtube.com/vi/2DNgIh88TzA/maxresdefault.jpg)](https://youtu.be/2DNgIh88TzA)
 
 
 The script opens Moodle in Chrome. Complete the Microsoft login and Authenticator verification using your own credentials. After login, do not close the browser or interact with it; the script will visit the courses available to your account, download each course's `Lecture Notes` folder, extract the files, and save them under `Lecture_Notes/`.
